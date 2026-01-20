@@ -1,0 +1,14 @@
+Requirements for Gmail Email Deleter Script
+
+-Python 3.9+ (recommended)
+-Windows/macOS/Linux (works anywhere PyAutoGUI works)
+-A browser with Gmail opened (Chrome/Edge/Firefox)
+
+Python Dependency needed:
+-PyAutoGUI
+Install:
+    pip install pyautogui
+    
+Optional (recommended on some systems):
+
+    pip install pillow
